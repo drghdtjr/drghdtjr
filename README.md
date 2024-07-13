@@ -19,12 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=drghdtjr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   
 </a>
-- [인스타그램](https://www.instagram.com/your_username)
-- [벨로그](https://velog.io/@your_username)
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 
