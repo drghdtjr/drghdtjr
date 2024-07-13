@@ -21,7 +21,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=drghdtjr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   
 </a>
-![snake gif](https://github.com/drghdtjr/drghdtjr/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github.com/drghdtjr/drghdtjr/blob/output/github-contribution-grid-snake.svg"/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 
