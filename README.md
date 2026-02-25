@@ -1,6 +1,6 @@
 # Hi there 👋
 
-> **Systems, Performance, and Cloud Infrastructure Enthusiast**
+> **Systems, Performance, and Cloud Infrastructure**
 
 I explore how systems work under the hood — from operating systems and concurrency models to scalable cloud infrastructure.
 
@@ -18,15 +18,15 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 
 ### 🏆 Experience & Activities
 
-- **SoftBank Cloud Hackathon 2025** | Excellence Award & Finalist (Dec 2025)
-- **SoftBank Cloud Hackathon 2025** | Preliminary Round (Nov 2025)
-- **Modak Modak Company** | Software Engineering Intern (Jul 2025 – Sep 2025)
-- **Techeer Silicon Valley Winter Bootcamp** | Program Leader (Sep 2024 – Feb 2025)
-- **Techeer Partners** | Leader (Sep 2024 – Feb 2025)
+- **SoftBank Cloud Hackathon 2025 in Korea** | Excellence Award & Finalist (Dec 6 – Dec 7, 2025)
+- **SoftBank Cloud Hackathon 2025 in Korea** | Preliminary Round (Nov 9 – Nov 10, 2025)
 - **UMC (University MakeUs Challenge)** | TUK 9th Gen (Sep 2025 – Present)
+- **9oormthon Univ Hackathon** | Seasonthon Participant (Sep 6 – Sep 7, 2025)
+- **9oormthon Univ Hackathon** | 9ITHON Participant (Jul 12 – Jul 13, 2025)
+- **Modak Modak Company** | Software Engineering Intern (Jul 2025 – Sep 2025)
 - **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Present)
 - **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Present)
-- **9oormthon Univ Hackathon** | Seasonthon & 9ITHON Participant (2025)
+- **Techeer Partners & Silicon Valley SW Winter Bootcamp** | Program Leader (Sep 2024 – Feb 2025)
 
 ---
 
@@ -39,7 +39,7 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 
 ---
 
-### 📫 Contact & Connect
+### 📫 Contact
 
 <p align="left">
   <a href="mailto:hongsk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
