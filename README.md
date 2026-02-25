@@ -6,8 +6,6 @@ I explore how systems work under the hood — from operating systems and concurr
 
 I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
 
-<br/>
-
 ### 🛠 Focus Areas
 
 | Category | Topics |
