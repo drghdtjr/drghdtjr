@@ -1,62 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=150&section=header&text=&fontSize=0" width="100%"/>
+# Hi there 👋
 
-<div align="center">
-     <h2>🔧 Tech Skills</h2>
- 
-<p align="center">
-    <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
-    <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-    <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-    <img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi" />
+> **Systems, Performance, and Cloud Infrastructure Enthusiast**
+
+I explore how systems work under the hood — from operating systems and concurrency models to scalable cloud infrastructure.
+
+I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
+
+<br/>
+
+### 🛠 Focus Areas
+
+| Category | Topics |
+| :--- | :--- |
+| **System** | Operating Systems, Concurrency & Non-blocking Systems |
+| **Architecture** | System Architecture, Performance Optimization |
+| **Infrastructure** | Cloud Infrastructure (AWS) |
+
+---
+
+### 🏆 Experience & Activities
+
+- **SoftBank Cloud Hackathon 2025** | Excellence Award & Finalist (Dec 2025)
+- **SoftBank Cloud Hackathon 2025** | Preliminary Round (Nov 2025)
+- **Modak Modak Company** | Software Engineering Intern (Jul 2025 – Sep 2025)
+- **Techeer Silicon Valley Winter Bootcamp** | Program Leader (Sep 2024 – Feb 2025)
+- **Techeer Partners** | Leader (Sep 2024 – Feb 2025)
+- **UMC (University MakeUs Challenge)** | TUK 9th Gen (Sep 2025 – Present)
+- **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Present)
+- **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Present)
+- **9oormthon Univ Hackathon** | Seasonthon & 9ITHON Participant (2025)
+
+---
+
+### 🌐 Open Source Contributions
+
+*Driving technical growth through collaboration in the open-source ecosystem.*
+
+* **[OpenTelemetry (PHP SDK)](https://github.com/open-telemetry/opentelemetry-php/pull/1744)** | **Contributor**
+  * *Refined trace/span naming consistency to improve SDK reliability.*
+
+---
+
+### 📫 Contact & Connect
+
+<p align="left">
+  <a href="mailto:hongsk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@drghdtjr/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EA%B9%80-630335359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
-
-## 📊 Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drghdtjr&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=drghdtjr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-  
-</a>
-<br><br>
-
-## BOJ Profile 🦉
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=drghdtjr)](https://solved.ac/drghdtjr)
-
-<img src="https://github.com/drghdtjr/drghdtjr/blob/output/github-contribution-grid-snake.svg"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=100&section=footer&text=&fontSize=0" width="100%"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**drghdtjr/drghdtjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
