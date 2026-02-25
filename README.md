@@ -32,8 +32,6 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 
 ### 🌐 Open Source Contributions
 
-*Driving technical growth through collaboration in the open-source ecosystem.*
-
 * **[OpenTelemetry (PHP SDK)](https://github.com/open-telemetry/opentelemetry-php/pull/1744)** | **Contributor**
   * *Refined trace/span naming consistency to improve SDK reliability.*
 
