@@ -20,13 +20,14 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 
 - **SoftBank Cloud Hackathon 2025 in Korea** | Excellence Award & Finalist (Dec 6 – Dec 7, 2025)
 - **SoftBank Cloud Hackathon 2025 in Korea** | Preliminary Round (Nov 9 – Nov 10, 2025)
-- **UMC (University MakeUs Challenge)** | TUK 9th Gen (Sep 2025 – Present)
+- **UMC (University MakeUs Challenge)** | TUK Spring 9th Gen (Sep 2025 – Feb 2026)
 - **9oormthon Univ Hackathon** | Seasonthon Participant (Sep 6 – Sep 7, 2025)
 - **9oormthon Univ Hackathon** | 9ITHON Participant (Jul 12 – Jul 13, 2025)
 - **Modak Modak Company** | Software Engineering Intern (Jul 2025 – Sep 2025)
-- **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Present)
-- **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Present)
+- **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Feb 2026)
+- **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Feb 2026)
 - **Techeer Partners & Silicon Valley SW Winter Bootcamp** | Program Leader (Sep 2024 – Feb 2025)
+- **Techeer** | 8th Gen Member (Sep 2024 – Present)
 
 ---
 
