@@ -1,9 +1,6 @@
 # Hi there 👋
 
-> **Systems, Performance, and Cloud Infrastructure**
-
-I explore how systems work under the hood — from operating systems and concurrency models to scalable cloud infrastructure.
-
+I explore how systems work under the hood — from operating systems and concurrency models to scalable cloud infrastructure.  
 I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
 
 ### 🛠 Focus Areas
@@ -31,7 +28,7 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 
 ---
 
-### 🌐 Open Source Contributions
+### 🌱 Open Source Contributions
 
 * **[OpenTelemetry (PHP SDK)](https://github.com/open-telemetry/opentelemetry-php/pull/1744)** | **Contributor**
   * *Refined trace/span naming consistency to improve SDK reliability.*
