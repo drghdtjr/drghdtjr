@@ -3,18 +3,8 @@
 I explore how systems work under the hood — from operating systems and concurrency models to scalable cloud infrastructure.  
 I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
 
-### 🛠 Focus Areas
-
-| Category | Topics |
-| :--- | :--- |
-| **System** | Operating Systems, Concurrency & Non-blocking Systems |
-| **Architecture** | System Architecture, Performance Optimization |
-| **Infrastructure** | Cloud Infrastructure (AWS) |
-
----
-
 ### 🏆 Experience & Activities
-
+- **UMC (University MakeUs Challenge)** | TUK Spring 10th Gen Server Lead (Mar 2026 – Present)
 - **SoftBank Cloud Hackathon 2025 in Korea** | Excellence Award & Finalist (Dec 6 – Dec 7, 2025)
 - **SoftBank Cloud Hackathon 2025 in Korea** | Preliminary Round (Nov 9 – Nov 10, 2025)
 - **UMC (University MakeUs Challenge)** | TUK Spring 9th Gen (Sep 2025 – Feb 2026)
@@ -23,17 +13,15 @@ I enjoy designing high-performance, non-blocking systems and continuously refini
 - **Modak Modak Company** | Software Engineering Intern (Jul 2025 – Sep 2025)
 - **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Feb 2026)
 - **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Feb 2026)
-- **Techeer Partners & Silicon Valley SW Winter Bootcamp** | Program Leader (Sep 2024 – Feb 2025)
+- **Techeer Partners & Silicon Valley SW Winter Bootcamp** | Team Leader (Sep 2024 – Feb 2025)
 - **Techeer** | 8th Gen Member (Sep 2024 – Present)
 
----
 
 ### 🌱 Open Source Contributions
 
 * **[OpenTelemetry (PHP SDK)](https://github.com/open-telemetry/opentelemetry-php/pull/1744)** | **Contributor**
   * *Refined trace/span naming consistency to improve SDK reliability.*
 
----
 
 ### 📫 Contact
 
