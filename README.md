@@ -4,10 +4,10 @@ I explore how systems work under the hood — from operating systems and concurr
 I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
 
 ### 👥 Activities
-- **AUSG (AWSKRUG University Student Group)** | 10th Gen Member (Jul 2026 – Present)
-- **UMC (University MakeUs Challenge)** | TUK Spring 10th Gen Server Lead (Mar 2026 – Present)
-- **UMC (University MakeUs Challenge)** | TUK Spring 9th Gen (Sep 2025 – Feb 2026)
-- **GDGoC (Google Developer Groups on Campus)** | TUK 25 (May 2025 – Feb 2026)
+- **AUSG** | 10th Gen Member (Jul 2026 – Present)
+- **UMC** | TUK Spring 10th Gen Server Lead (Mar 2026 – Present)
+- **UMC** | TUK Spring 9th Gen (Sep 2025 – Feb 2026)
+- **GDGoC** | TUK 25 (May 2025 – Feb 2026)
 - **9oormthon Univ** | TUK 4th Gen Member (Apr 2025 – Feb 2026)
 - **Techeer** | 8th Gen Member (Sep 2024 – Present)
 
