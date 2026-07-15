@@ -4,6 +4,7 @@ I explore how systems work under the hood — from operating systems and concurr
 I enjoy designing high-performance, non-blocking systems and continuously refining them for efficiency and clarity.
 
 ### 🏆 Experience & Activities
+- **AUSG (AWSKRUG University Student Group)** | 10th Gen Member (Jul 2026 – Present)
 - **UMC (University MakeUs Challenge)** | TUK Spring 10th Gen Server Lead (Mar 2026 – Present)
 - **SoftBank Cloud Hackathon 2025 in Korea** | Excellence Award & Finalist (Dec 6 – Dec 7, 2025)
 - **SoftBank Cloud Hackathon 2025 in Korea** | Preliminary Round (Nov 9 – Nov 10, 2025)
